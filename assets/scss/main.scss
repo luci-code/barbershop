@@ -1,0 +1,14 @@
+//abstracts
+@import "abstracts/variables";
+
+//vendor siempre esta aca porque tiene a boostrap
+@import "vendor/bootstrap_4.5.0/bootstrap";
+
+//base
+@import "base/reset";
+
+//componets
+@import "componets/button";
+
+//pages 
+@import "pages/blog"; 
